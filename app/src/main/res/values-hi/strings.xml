@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FirstExercise</string>
+    <string name="welcomes_you">आपका स्वागत है</string>
+    <string name="click_to_proceed">प्रस्तुत</string>
+    <string name="enter_age">आयु दर्ज करें:</string>
+    <string name="enter_name">नाम दर्ज करे:</string>
+    <string name="next_details_button">प्रस्तुत</string>
+    <string name="our_mission">हमारा लक्ष्य</string>
+
+</resources>

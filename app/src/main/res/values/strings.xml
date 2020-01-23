@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">FirstExercise</string>
+    <string name="welcomes_you">Welcomes you</string>
+    <string name="click_to_proceed">Click to Proceed</string>
+    <string name="enter_age">Enter Age:</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="next_details_button">Next</string>
+    <string name="our_mission">OUR MISSION</string>
+    <string name="next_display_button">Next</string>
+    <string name="your_name">Your Name:</string>
+    <string name="thank_you_for_choosing_verizon">Thank you for choosing Verizon!</string>
+    <string name="name">Name:</string>
+    <string name="age">Age:</string>
+    <string name="thank_you">Thank You!</string>
+
+</resources>
